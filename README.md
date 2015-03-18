@@ -47,8 +47,6 @@ It's pretty easy to add this plugin to your current application. All you need to
 ### 3. Display your team on one of your application pages ###
 Before displaying anything, you need to generate the cache, to do so, you'll need to run the included shell located at `app/Plugin/HipTeam/Console/Command/TeamShell.php`, with this simple command: `app/Console/cake HipTeam.Team`.
 
-This will generate the cache for you, have a look [here][custom_cache] if you want to know how to customize the cache (path, duration, engine, ...)
-
 HipTeam comes with the most basic view you can imagine, it's just there to display general information about your team, such as `names`, `@mention names`.
 
 > **Note:**
@@ -120,5 +118,4 @@ That's it, enjoy! If you have any questions, feel free to contact us at [support
 [cakephp_book]: http://book.cakephp.org/2.0/en/plugins/how-to-use-plugins.html#plugin-configuration
 [cakephp_version]: http://cakephp.org/changelogs/2.6.2
 [cakephp_book_plugin]: http://book.cakephp.org/2.0/en/plugins/how-to-create-plugins.html#overriding-plugin-views-from-inside-your-application
-[custom_cache]: #caching-api-requests
 [cakephp_cronjob]: http://book.cakephp.org/2.0/en/console-and-shells/cron-jobs.html
