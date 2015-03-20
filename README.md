@@ -14,7 +14,7 @@ As a company, we try to be as transparent as possible. We want to help share thi
 
 [The process for building our product](http://backstage.pickcrew.com/building-in-public/) is public.
 
-So we thought, why not share what each member of our team is currently working on and when in public? It gives a glimpse of how things get done in our company. Some of us early risers and some of us prefer working late into the night. You can have a look [here](https://pickcrew.com/team).
+So we thought, why not share what we’re currently working on in public? We think it gives a glimpse of when and how things get done. Some of us are early risers while some of us prefer working late into the night. Take a peek at our live Team page [here](https://pickcrew.com/team).
 
 ### 1. Before starting anything
 
@@ -25,7 +25,7 @@ Here's a list of things that you should know before doing anything else:
 
 ### 2. Setting up your CakePHP application
 
-It's pretty easy to add this plugin to your current application. All you need to do is:
+Here’s what you need to do to add this plugin to your current application:
 
 * **Clone the plugin repo:**
 
