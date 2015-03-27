@@ -29,7 +29,7 @@ Here’s what you need to do to add this plugin to your current application:
 
 * **Clone the plugin repo:**
 
-	In order to do so, run `git clone [GITHUB REMOTE]` and add the files to your plugin folder, which would be something like `app/Plugin/`
+	In order to do so, run `git clone https://github.com/CrewLabs/cakephp-hipteam` and add the files to your plugin folder, which would be something like `app/Plugin/`
 
 * **Load the plugin inside `app/Config/bootstrap.php` by adding this:**
 
